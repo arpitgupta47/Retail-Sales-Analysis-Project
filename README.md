@@ -53,9 +53,6 @@ The richness of this dataset enables deep dives into product-level insights, cus
 
 ---
 
-## 👥 Team Members
-
-This project was collaboratively developed by a group of dedicated students as part of the **3rd Semester IIoT course** at Invertis University. Each member contributed to data analysis, visualization, documentation, or presentation.
 
 
 
