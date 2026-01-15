@@ -5,7 +5,7 @@
 **Course:** Industrial Internet of Things (IIoT)  
 **Semester:** 3rd Semester  
 **University:** Invertis University, Bareilly  
-**Student:** Abhishek Maheshwari  
+**Student:** ARPIT GUPTA 
 **Role:** Exploratory Data Analysis (EDA) & Documentation
 
 ---
@@ -57,23 +57,7 @@ The richness of this dataset enables deep dives into product-level insights, cus
 
 This project was collaboratively developed by a group of dedicated students as part of the **3rd Semester IIoT course** at Invertis University. Each member contributed to data analysis, visualization, documentation, or presentation.
 
-### 🔹 Team Members:
 
-- **Abhishek Kumar**  *(Leader)*
-- **Abhishek Maheshwari** *(EDA & Documentation)*  
-- **Anubhav Gangwar**  
-- **Ridhima Maheshwari**  
-- **Vansh Gupta**  
-- **Samina Nooreen**  
-- **Soni**  
-- **Mohd Sheeban Khan**  
-- **Ankit Kumar**  
-- **Sanjay Mishra**  
-- **Arpit Gupta**  
-- **Aryan Srivastava**  
-- **Vaishnavi Gupta**
-
-> 🙌 Each member played a vital role in researching, cleaning, analyzing, and presenting data. Special focus was given to teamwork, communication, and practical application of Industrial IoT and data analytics concepts.
 
 ---
 
