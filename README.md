@@ -51,13 +51,6 @@ The richness of this dataset enables deep dives into product-level insights, cus
 ---
 
 
----
-
-
-
-
----
-
 ## 📌 Note
 
 - This project was submitted as part of the **3rd Semester Project** under the subject **Industrial Internet of Things (IIoT)**.
